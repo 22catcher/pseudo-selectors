@@ -1,0 +1,10 @@
+p {
+    padding: 10px;
+    margin: 0px;
+    border: 1px solid black;
+    width: 400px;
+}
+
+p:hover {
+    background: red;
+}
